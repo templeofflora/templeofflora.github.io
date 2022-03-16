@@ -13,6 +13,9 @@
   }
 
   a {
+    font-size: large;
+    color: #FFFFFF;
+    text-decoration: none;
     position: fixed;
     top: 20%;
     right: 1%;
@@ -37,6 +40,9 @@
   }
   
  a {
+    font-size: large;
+    color: #FFFFFF;
+    text-decoration: none;
     position: fixed;
     top: 20%;
     right: 1%;
