@@ -5,3 +5,8 @@ body {
   align-content: center;
   justify-content: center;
 }
+
+#insta {
+  width: 3em;
+  height: 3em;
+}
