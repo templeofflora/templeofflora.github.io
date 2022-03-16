@@ -10,4 +10,7 @@ body {
 #insta {
   width: 3em;
   height: 3em;
+  position: fixed;
+  top: 1%;
+  right: 1%;
 }
