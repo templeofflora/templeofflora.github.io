@@ -12,6 +12,11 @@
     width: 100%
   }
 
+  a {
+    position: fixed;
+    top: 10%;
+    right: 1%;
+  }
   #insta {
     width: 3em;
     height: 3em;
