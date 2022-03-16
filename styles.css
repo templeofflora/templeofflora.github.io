@@ -1,5 +1,6 @@
 @media screen and (max-width: 600px) {
   body {
+    font-family: Didot;
     background-color: #0d0c0a;
     margin: 0;
     display: flex;
@@ -21,6 +22,7 @@
 }
 @media screen and (min-width: 600px) {
   body {
+    font-family: Didot;
     background-color: #0d0c0a;
     margin: 0;
     display: flex;
